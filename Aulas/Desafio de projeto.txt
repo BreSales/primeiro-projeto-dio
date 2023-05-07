@@ -1,0 +1,1 @@
+Criar um repositório onde iram ficar armazenadas todas as anotações das aulas, guardar códigos desenvolvidos durante todo o curso.
